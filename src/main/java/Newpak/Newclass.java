@@ -7,6 +7,10 @@ public class Newclass {
         System.out.println("hello gd mor");
     }
 
+    public void m2(){
+        System.out.println("good afternoon");
+    }
+
     public void m1(){
         System.out.println("hello gd eve");
 

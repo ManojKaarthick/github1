@@ -19,6 +19,7 @@ public class Newclass {
         Newclass n=new Newclass();
         n.m3();
         n.m1();
+        n.m2();
 
 
 
